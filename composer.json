@@ -1,5 +1,5 @@
 {
-    "name": "gerardojbaez/messenger",
+    "name": "dauvray/messenger",
     "description": "Messenger functionality for Laravel",
     "keywords": ["laravel", "messenger", "messages"],
     "license": "MIT",
